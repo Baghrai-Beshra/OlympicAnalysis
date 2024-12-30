@@ -1,9 +1,6 @@
 ## Olympic Analysis Dashboard
 This project is an interactive web application built with Streamlit to explore and analyze Olympic data up to 2016. It provides insights into athlete performance, medal tallies, country-wise analysis, and more. The dashboard integrates various visualizations using Plotly, Seaborn, and Matplotlib, and includes advanced filtering options for deeper analysis.
 
-### Demo
-[![image](https://github.com/user-attachments/assets/d2b0d1fa-6399-47a6-9ec7-ff994243d61e)
-]
 ### Features
 #### 1. Name of Olympian
 Search for specific Olympians and view their historical participation and performance.
@@ -30,4 +27,9 @@ Analyze the age distribution of athletes, including medal winners.
 Visualize the relationship between height and weight across different sports.
 Compare the participation of men and women over time.
 #### 6. New Feature
-Placeholder for upcoming features to enhance the application.[Link](http://localhost:8502/)
+Placeholder for upcoming features to enhance the application.
+
+### Demo
+[![image](https://github.com/user-attachments/assets/d2b0d1fa-6399-47a6-9ec7-ff994243d61e)
+]
+#### Goole:[Link](http://localhost:8502/)
