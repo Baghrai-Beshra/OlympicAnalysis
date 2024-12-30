@@ -32,4 +32,4 @@ Placeholder for upcoming features to enhance the application.
 ### Demo
 [![image](https://github.com/user-attachments/assets/d2b0d1fa-6399-47a6-9ec7-ff994243d61e)
 ]
-#### Goole:[Link](http://localhost:8502/)
+#### Google:[Link](http://localhost:8502/)
