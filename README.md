@@ -1,5 +1,5 @@
 ## Olympic Analysis Dashboard
-This project is an interactive web application built with Streamlit to explore and analyze Olympic data up to 2016. It provides insights into athlete performance, medal tallies, country-wise analysis, and more. The dashboard integrates various visualizations using Plotly, Seaborn, and Matplotlib, and includes advanced filtering options for deeper analysis.
+This machine learning project is an interactive web application built with Streamlit to explore and analyze Olympic data up to 2016. It provides insights into athlete performance, medal tallies, country-wise analysis, and more. The dashboard integrates various visualizations using Plotly, Seaborn, and Matplotlib, and includes advanced filtering options for deeper analysis.
 
 ### Features
 #### 1. Name of Olympian
